@@ -92,7 +92,7 @@ opentelemetry-semantic-conventions==0.45b0
 ordered-set==4.1.0
 packaging==24.0
 pathspec==0.12.1
-pendulum==3.0.0
+pendulum==2.0.0
 pluggy==1.4.0
 prison==0.2.1
 protobuf==4.25.3
