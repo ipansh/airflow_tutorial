@@ -10,7 +10,7 @@ dag = DAG(
     schedule_interval=timedelta(days=1)
 )
 
-#
+#update sql creds
 
 t1 = BashOperator(
     task_id='print_date',
