@@ -10,6 +10,8 @@ dag = DAG(
     schedule_interval=timedelta(days=1)
 )
 
+#
+
 t1 = BashOperator(
     task_id='print_date',
     bash_command='date',
