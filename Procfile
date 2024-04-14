@@ -1,1 +1,1 @@
-web: airflow webserver
+web: airflow initdb
